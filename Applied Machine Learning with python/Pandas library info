@@ -1,0 +1,2 @@
+1. value_counts = counts the total value of any categorical data groupwise eg. df['target'].value_counts()
+2. df.index = ['cat', 'dog']  -- Modify the index of any series 
